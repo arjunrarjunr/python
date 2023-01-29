@@ -2,3 +2,5 @@ numpy
 pandas
 jupyterlab
 statsmodels
+sqlalchemy
+mysql-connector-python
