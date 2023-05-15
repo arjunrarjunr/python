@@ -3,6 +3,7 @@ version: '2'
 services:
   python:
     build: ./python
+    restart: always
     container_name: python
     volumes:
       - ./notebooks/:/root/notebooks
