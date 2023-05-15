@@ -52,4 +52,3 @@ class stats:
                 raise TypeError("The input data list should contain only numbers.")
         else:
             raise TypeError("The input data should be either list.")
-
